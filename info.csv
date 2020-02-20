@@ -1,0 +1,3 @@
+﻿sep=;
+finalFileName;templateName;logoFileName;xInsertPointLogo;yInsertPointLogo;xPixelSize;yPixelSize;xSizeInmm;ySizeInmm;rotationLogo;textToInsert;textStyle;xInsertPointText;yInsertPointText;rotationText;alignmentText;textWidth;textHeight;strNameLen
+testPlate.dxf;NTNU_KeyChain_Template_v2.dxf;ntnu_logo_svart.png;1.5050;18.7732;260;348;22;29.5;0;JAGAMcGCHE-J;NTNU-DIN;12.5;14;0;2;25;2.5;8
